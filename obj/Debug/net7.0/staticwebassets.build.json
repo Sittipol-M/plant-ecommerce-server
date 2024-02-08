@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Nf+sHFkQWlo3TfNFr7aJlUBzqt3lkBCM+u5rLkG9jE=",
+  "Source": "plant-ecommerce-server",
+  "BasePath": "_content/plant-ecommerce-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
